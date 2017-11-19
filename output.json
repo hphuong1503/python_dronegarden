@@ -5,12 +5,12 @@
   },
   "outputs": [
     {
-      "id": "cf8a4ddbf9d845aabfeff5b01ab8837b",
+      "id": "d170b597a30543fbb2765eafd92a51f9",
       "status": {
         "code": 10000,
         "description": "Ok"
       },
-      "created_at": "2017-11-18T12:46:07.945691513Z",
+      "created_at": "2017-11-18T18:00:41.650015324Z",
       "model": {
         "id": "AIBoy",
         "name": "AIBoy",
@@ -36,31 +36,31 @@
         }
       },
       "input": {
-        "id": "fb7f9bf7e4304b309a203f0330eff586",
+        "id": "a1ec2fa17e7741fea5caed15be5e4755",
         "data": {
           "image": {
-            "url": "https://firebasestorage.googleapis.com/v0/b/flycam-184516.appspot.com/o/photo-542434940.jpg?alt=media&token=a71bde4a-f192-499b-b441-143147f33e20"
+            "url": "https://firebasestorage.googleapis.com/v0/b/flycam-184516.appspot.com/o/photo-1428200820.png?alt=media&token=5e975cf1-b19d-491c-aaac-816c625c40e3"
           }
         }
       },
       "data": {
         "concepts": [
           {
-            "id": "Nguoi",
-            "name": "Nguoi",
-            "value": 0.50161093,
+           "id": "Rau",
+            "name": "Rau",
+            "value": 0.006293259,
             "app_id": "e1cc4193227d458e92507791d9a17329"
           },
           {
-            "id": "Rau",
-            "name": "Rau",
-            "value": 6.379027e-08,
+            "id": "Nguoi",
+            "name": "Nguoi",
+            "value": 2.3819018e-06,
             "app_id": "e1cc4193227d458e92507791d9a17329"
           },
           {
             "id": "RauHu",
             "name": "RauHu",
-            "value": 6.945767e-09,
+            "value": 1.3589887e-07,
             "app_id": "e1cc4193227d458e92507791d9a17329"
           }
         ]
